@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\bin\Debug\net8.0\IfElse3.exe
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\bin\Debug\net8.0\IfElse3.deps.json
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\bin\Debug\net8.0\IfElse3.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\bin\Debug\net8.0\IfElse3.dll
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\bin\Debug\net8.0\IfElse3.pdb
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\IfElse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\IfElse3.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\IfElse3.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\IfElse3.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\IfElse3.dll
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\refint\IfElse3.dll
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\IfElse3.pdb
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\IfElse3.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\IfElse3\obj\Debug\net8.0\ref\IfElse3.dll
